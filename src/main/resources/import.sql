@@ -1,0 +1,11 @@
+INSERT INTO products (name,description, precio, stock, created_at) VALUES('Panasonic', 'Pantalla de 75', 12300, 30, NOW() );
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Samsung Galaxy S21', 'Teléfono inteligente con cámara de 108 MP', 999.99, 50, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Sony PlayStation 5', 'Consola de videojuegos de última generación', 499.99, 20, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('HP Pavilion Laptop', 'Portátil con procesador i7 y 16 GB de RAM', 1200, 15, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Nike Air Max 270', 'Zapatillas deportivas con tecnología Air', 129.99, 100, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Canon EOS 5D Mark IV', 'Cámara DSLR con sensor de fotograma completo', 2499.99, 10, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('LG 4K UHD Smart TV', 'Televisor con pantalla de 55 pulgadas', 799.99, 40, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Bose QuietComfort 35 II', 'Auriculares con cancelación de ruido', 349.99, 30, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Dell Inspiron Desktop', 'Computadora de escritorio con SSD de 1 TB', 899.99, 25, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Adidas Ultraboost', 'Zapatillas para correr con tecnología Boost', 149.99, 75, NOW());
+INSERT INTO products (name, description, precio, stock, created_at) VALUES ('Apple MacBook Pro', 'Laptop con chip M1 y pantalla Retina', 1499.99, 15, NOW());

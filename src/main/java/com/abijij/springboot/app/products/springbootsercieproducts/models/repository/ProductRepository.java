@@ -6,4 +6,7 @@ import com.abijij.springboot.app.products.springbootsercieproducts.models.entity
 
 public interface ProductRepository extends CrudRepository<Product,Long>{
 
+    
+
+
 }
